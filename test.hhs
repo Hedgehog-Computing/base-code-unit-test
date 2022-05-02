@@ -1,4 +1,3 @@
-
 // This is a hedgehog script unit test script file.
 
 print("All test cases passed! Yay!");
